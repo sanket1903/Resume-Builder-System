@@ -44,8 +44,11 @@ Users can preview their resumes before finalizing and have the option to downloa
 # Technologies Used:
 
 HTML5, CSS3 for structure and styling.
-JavaScript for interactive and dynamic features.
-Backend technology (optional) for user data storage and retrieval.
+
+JavaScript and JQuery for interactive and dynamic features.
+
+
 
 # Project Outcome:
+
 The Education-themed Resume Builder System empowers users to create polished and compelling resumes tailored specifically for the education sector. Its user-friendly interface and theme customization options make it a valuable tool for students, educators, and professionals looking to showcase their academic and professional achievements effectively.
