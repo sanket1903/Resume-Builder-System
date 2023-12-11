@@ -1,4 +1,4 @@
-# Project Title: Education-themed Resume Builder System
+# Project Title:  Resume Builder System
 
 Project Overview:
 The Education-themed Resume Builder System is a web-based application designed to assist users, particularly students and professionals in the education sector, in creating visually appealing and content-rich resumes. The system is developed using HTML, CSS, and JavaScript, providing an interactive and user-friendly interface.
